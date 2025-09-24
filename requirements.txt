@@ -1,0 +1,4 @@
+streamlit
+ollama
+llama3.2
+gTTS
