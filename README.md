@@ -100,5 +100,7 @@ nexa-chatbot/
 ## 👩‍💻 Author
 
 [LinkedIn](https://www.linkedin.com/in/linda--lance/)
+
 [Github](https://github.com/Linda-Lance)
+
 lindalance2210@gmail.com
